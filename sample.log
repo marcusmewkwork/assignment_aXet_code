@@ -1,0 +1,355 @@
+2026-10-01 08:00:00 INFO User login successful
+2026-10-01 08:00:37 INFO Cache refreshed
+2026-10-01 08:01:03 INFO Session closed
+2026-10-01 08:01:28 INFO User login successful
+2026-10-01 08:01:49 WARN Retrying request to inventory-service
+2026-10-01 08:02:41 INFO Session closed
+2026-10-01 08:03:13 INFO Session closed
+2026-10-01 08:03:59 INFO Scheduled job finished
+2026-10-01 08:04:19 INFO Cache refreshed
+2026-10-01 08:05:06 INFO Cache refreshed
+2026-10-01 08:05:39 INFO Health check OK
+2026-10-01 08:06:05 WARN Slow query detected (>2s)
+2026-10-01 08:06:47 INFO Scheduled job finished
+2026-10-01 08:07:09 INFO Session closed
+2026-10-01 08:07:36 INFO Order created
+2026-10-01 08:08:01 INFO Health check OK
+2026-10-01 08:08:57 INFO Request completed in 120ms
+2026-10-01 08:09:19 INFO Scheduled job finished
+2026-10-01 08:09:44 INFO Request completed in 120ms
+2026-10-01 08:10:28 INFO Health check OK
+2026-10-01 08:10:58 INFO Scheduled job started
+2026-10-01 08:11:35 INFO Request completed in 120ms
+2026-10-01 08:12:33 INFO Session closed
+2026-10-01 08:13:08 INFO Order created
+2026-10-01 08:13:45 INFO Session closed
+2026-10-01 08:14:19 INFO User login successful
+2026-10-01 08:14:53 INFO Health check OK
+2026-10-01 08:15:38 INFO Scheduled job started
+2026-10-01 08:16:34 INFO Health check OK
+2026-10-01 08:17:07 INFO Order created
+2026-10-01 08:17:56 INFO Cache refreshed
+2026-10-01 08:18:31 INFO Session closed
+2026-10-01 08:19:07 INFO Order created
+2026-10-01 08:20:04 INFO Scheduled job started
+2026-10-01 08:20:32 INFO Request completed in 120ms
+2026-10-01 08:20:55 INFO Cache refreshed
+2026-10-01 08:21:55 INFO Order created
+2026-10-01 08:22:53 WARN Deprecated API endpoint called
+2026-10-01 08:23:51 INFO Session closed
+2026-10-01 08:24:27 INFO User login successful
+2026-10-01 08:24:54 INFO Session closed
+2026-10-01 08:25:31 INFO Health check OK
+2026-10-01 08:25:58 INFO Cache refreshed
+2026-10-01 08:26:47 ERROR Failed to connect to inventory-service
+2026-10-01 08:27:23 INFO Cache refreshed
+2026-10-01 08:28:15 INFO Scheduled job finished
+2026-10-01 08:29:15 INFO Scheduled job started
+2026-10-01 08:29:44 INFO Cache refreshed
+2026-10-01 08:30:38 INFO Session closed
+2026-10-01 08:30:58 INFO Payment processed
+2026-10-01 08:31:19 WARN Disk usage above 80%
+2026-10-01 08:31:58 INFO Scheduled job started
+2026-10-01 08:32:54 INFO Request completed in 120ms
+2026-10-01 08:33:45 INFO Session closed
+2026-10-01 08:34:13 INFO Payment processed
+2026-10-01 08:35:08 INFO Session closed
+2026-10-01 08:36:06 INFO Scheduled job started
+2026-10-01 08:37:00 INFO Scheduled job started
+2026-10-01 08:37:39 INFO Health check OK
+2026-10-01 08:38:27 INFO Payment processed
+2026-10-01 08:38:54 INFO Request completed in 120ms
+2026-10-01 08:39:35 ERROR Payment gateway returned 503
+2026-10-01 08:40:32 INFO Request completed in 120ms
+2026-10-01 08:41:32 WARN Slow query detected (>2s)
+2026-10-01 08:41:54 INFO Request completed in 120ms
+2026-10-01 08:42:46 INFO Payment processed
+2026-10-01 08:43:19 INFO Payment processed
+2026-10-01 08:43:54 INFO Order created
+2026-10-01 08:44:26 WARN Deprecated API endpoint called
+2026-10-01 08:45:08 INFO Payment processed
+2026-10-01 08:45:31 INFO Request completed in 120ms
+2026-10-01 08:45:54 INFO Health check OK
+2026-10-01 08:46:20 INFO Scheduled job started
+2026-10-01 08:47:14 INFO Order created
+2026-10-01 08:47:45 INFO Scheduled job started
+2026-10-01 08:48:09 INFO Session closed
+2026-10-01 08:48:35 WARN High memory usage on worker-2
+this line is complete garbage
+2026-10-01 08:48:55 INFO Scheduled job started
+2026-10-01 08:49:25 INFO Payment processed
+2026-10-01 08:49:58 INFO User login successful
+2026-10-01 08:50:28 INFO Order created
+2026-10-01 08:51:04 INFO Payment processed
+2026-10-01 08:51:42 INFO Session closed
+2026-10-01 08:52:33 INFO Scheduled job finished
+2026-10-01 08:53:06 INFO Session closed
+2026-10-01 08:53:29 INFO User login successful
+2026-10-01 08:53:52 INFO Session closed
+2026-10-01 08:54:45 INFO Session closed
+2026-10-01 08:55:10 INFO Request completed in 120ms
+2026-10-01 08:56:08 WARN Retrying request to inventory-service
+2026-10-01 08:56:53 WARN High memory usage on worker-2
+2026-10-01 08:57:28 INFO User login successful
+2026-10-01 08:58:27 WARN High memory usage on worker-2
+2026-10-01 08:59:23 INFO Scheduled job finished
+2026-10-01 08:59:56 INFO Health check OK
+2026-10-01 09:00:31 INFO Cache refreshed
+2026-10-01 09:01:10 INFO Request completed in 120ms
+2026-10-01 09:01:30 INFO Request completed in 120ms
+2026-10-01 09:01:54 INFO Session closed
+2026-13-45 99:99:99 ERROR Impossible timestamp
+2026-10-01 09:02:30 INFO Health check OK
+2026-10-01 09:02:54 INFO Health check OK
+2026-10-01 09:03:32 INFO Session closed
+2026-10-01 09:04:11 INFO Session closed
+2026-10-01 09:04:31 INFO Session closed
+2026-10-01 09:05:10 INFO Request completed in 120ms
+2026-10-01 09:05:38 INFO Request completed in 120ms
+2026-10-01 09:06:33 INFO Scheduled job finished
+2026-10-01 09:07:31 INFO Health check OK
+2026-10-01 09:08:04 INFO Scheduled job finished
+2026-10-01 09:08:56 INFO User login successful
+2026-10-01 09:09:21 INFO Scheduled job finished
+2026-10-01 09:09:43 ERROR NullPointerException in OrderController
+2026-10-01 09:41:07 CRITICAL Unknown level used here
+2026-10-01 09:10:43 INFO Cache refreshed
+2026-10-01 09:11:31 INFO Order created
+2026-10-01 09:12:26 ERROR Database connection timeout after 30s
+2026-10-01 09:12:55 INFO Health check OK
+2026-10-01 09:13:52 INFO Order created
+2026-10-01 09:14:20 WARN Disk usage above 80%
+2026-10-01 09:14:42 INFO Scheduled job started
+2026-10-01 09:15:17 INFO Health check OK
+2026-10-01 09:16:12 INFO Order created
+2026-10-01 09:17:11 INFO Scheduled job started
+2026-10-01 09:17:41 INFO Cache refreshed
+2026-10-01 09:18:27 ERROR Failed to connect to inventory-service
+2026-10-01 09:19:08 INFO Order created
+2026-10-01 09:19:43 INFO Request completed in 120ms
+2026-10-01 09:20:27 INFO Payment processed
+2026-10-01 09:21:01 INFO Payment processed
+2026-10-01 09:21:43 INFO Scheduled job started
+2026-10-01 09:22:17 ERROR Database connection timeout after 30s
+2026-10-01 09:22:58 INFO Request completed in 120ms
+2026-10-01 09:23:35 INFO Session closed
+2026-10-01 09:24:20 INFO Session closed
+2026-10-01 09:25:01 INFO Request completed in 120ms
+2026-10-01 09:25:37 INFO Scheduled job finished
+2026-10-01 09:25:59 WARN Deprecated API endpoint called
+2026-10-01 09:26:41 INFO Health check OK
+2026-10-01 09:27:28 INFO Session closed
+2026-10-01 09:27:55 INFO Scheduled job started
+2026-10-01 09:28:31 WARN Deprecated API endpoint called
+2026-10-01 09:28:51 INFO Session closed
+2026-10-01 09:29:23 INFO Request completed in 120ms
+2026-10-01 09:30:04 WARN Slow query detected (>2s)
+2026-10-01 09:30:18 WARN Deprecated API endpoint called
+2026-10-01 09:30:33 ERROR Database connection timeout after 30s
+2026-10-01 09:30:42 ERROR Failed to connect to inventory-service
+2026-10-01 09:30:59 WARN Retrying request to inventory-service
+2026-10-01 09:31:23 WARN Deprecated API endpoint called
+2026-10-01 09:31:45 INFO Scheduled job finished
+2026-10-01 09:31:59 ERROR NullPointerException in OrderController
+2026-10-01 09:32:23 WARN Deprecated API endpoint called
+2026-10-01 09:32:42 ERROR Database connection timeout after 30s
+2026-10-01 09:33:02 INFO Cache refreshed
+2026-10-01 09:33:09 ERROR Failed to connect to inventory-service
+2026-10-01 09:33:33 ERROR NullPointerException in OrderController
+2026-10-01 09:33:45 WARN Retrying request to inventory-service
+2026-10-01 09:33:56 ERROR Database connection timeout after 30s
+2026-10-01 09:34:16 WARN Slow query detected (>2s)
+2026-10-01 09:34:35 ERROR Failed to connect to inventory-service
+2026-10-01 09:34:46 INFO Order created
+2026-10-01 09:35:06 ERROR Database connection timeout after 30s
+2026-10-01 09:35:11 INFO Request completed in 120ms
+2026-10-01 09:35:29 ERROR NullPointerException in OrderController
+2026-10-01 09:35:50 WARN High memory usage on worker-2
+2026-10-01 09:36:02 INFO Request completed in 120ms
+2026-10-01 09:36:21 ERROR Payment gateway returned 503
+2026-10-01 09:36:42 INFO Health check OK
+2026-10-01 09:37:01 WARN High memory usage on worker-2
+2026-10-01 09:37:19 INFO Session closed
+2026-10-01 09:37:38 INFO Payment processed
+2026-10-01 09:37:57 ERROR Database connection timeout after 30s
+2026-10-01 09:38:22 ERROR NullPointerException in OrderController
+2026-10-01 09:38:42 WARN Disk usage above 80%
+2026-10-01 09:39:01 ERROR Database connection timeout after 30s
+
+2026-10-01 09:39:14 ERROR Redis connection refused
+2026-10-01 09:39:21 ERROR Database connection timeout after 30s
+2026-10-01 09:39:30 INFO Request completed in 120ms
+2026-10-01 09:39:48 ERROR Payment gateway returned 503
+2026-10-01 09:40:06 ERROR NullPointerException in OrderController
+2026-10-01 09:40:23 INFO User login successful
+2026-10-01 09:40:46 ERROR Database connection timeout after 30s
+2026-10-01 09:41:02 ERROR Payment gateway returned 503
+2026-10-01 09:41:20 WARN High memory usage on worker-2
+2026-10-01 09:41:44 INFO Payment processed
+2026-10-01 09:41:56 ERROR Payment gateway returned 503
+2026-10-01 09:42:13 ERROR Failed to connect to inventory-service
+2026-10-01 09:42:30 INFO Payment processed
+2026-10-01 09:42:39 INFO Session closed
+2026-10-01 09:42:44 INFO User login successful
+2026-10-01 09:42:51 WARN Retrying request to inventory-service
+2026-10-01 09:43:10 ERROR Database connection timeout after 30s
+2026-10-01 09:43:25 ERROR Database connection timeout after 30s
+2026-10-01 09:43:42 ERROR Disk write failed: No space left on device
+2026-10-01 09:44:00 ERROR Database connection timeout after 30s
+2026-10-01 09:44:05 INFO User login successful
+2026-10-01 09:44:21 ERROR Database connection timeout after 30s
+2026-10-01 09:44:46 ERROR Database connection timeout after 30s
+2026-10-01 09:42:10 ERROR
+2026-10-01 09:44:58 ERROR Database connection timeout after 30s
+2026-10-01 09:45:07 ERROR Payment gateway returned 503
+2026-10-01 09:45:15 WARN Retrying request to inventory-service
+2026-10-01 09:45:34 WARN Disk usage above 80%
+2026-10-01 09:45:44 WARN Slow query detected (>2s)
+2026-10-01 09:45:54 INFO Request completed in 120ms
+2026-10-01 09:46:17 ERROR Database connection timeout after 30s
+2026-10-01 09:46:34 ERROR Failed to connect to inventory-service
+2026-10-01 09:46:41 WARN Retrying request to inventory-service
+2026-10-01 09:46:49 WARN Disk usage above 80%
+2026-10-01 09:47:13 INFO User login successful
+2026-10-01 09:47:29 WARN Disk usage above 80%
+2026-10-01 09:47:36 WARN Disk usage above 80%
+2026-10-01 09:47:41 INFO Payment processed
+2026-10-01 09:47:49 ERROR Database connection timeout after 30s
+2026-10-01 09:48:08 INFO Order created
+2026-10-01 09:48:18 INFO Scheduled job finished
+2026-10-01 09:48:42 INFO Session closed
+2026-10-01 09:49:02 WARN High memory usage on worker-2
+2026-10-01 09:49:15 ERROR Database connection timeout after 30s
+2026-10-01 09:49:22 ERROR Payment gateway returned 503
+2026-10-01 09:49:41 WARN Deprecated API endpoint called
+2026-10-01 09:49:56 ERROR NullPointerException in OrderController
+2026-10-01 09:50:06 WARN Disk usage above 80%
+2026-10-01 09:50:19 ERROR Redis connection refused
+2026-10-01 09:50:32 WARN High memory usage on worker-2
+2026-10-01 09:50:43 ERROR Failed to connect to inventory-service
+2026-10-01 09:51:03 WARN Retrying request to inventory-service
+2026-10-01 09:51:23 WARN Deprecated API endpoint called
+2026-10-01 09:51:42 INFO Request completed in 120ms
+2026-10-01 09:51:56 ERROR Failed to connect to inventory-service
+2026-10-01 09:52:10 WARN Disk usage above 80%
+2026-10-01 09:52:30 WARN Disk usage above 80%
+2026-10-01 09:52:48 INFO Session closed
+2026-10-01 09:53:03 ERROR Payment gateway returned 503
+2026-10-01 09:53:17 ERROR Database connection timeout after 30s
+2026-10-01 09:53:28 ERROR Failed to connect to inventory-service
+2026-10-01 09:53:38 ERROR Failed to connect to inventory-service
+2026-10-01 09:53:51 INFO Session closed
+2026-10-01 09:54:15 ERROR Database connection timeout after 30s
+2026-10-01 09:54:26 ERROR Database connection timeout after 30s
+2026-10-01 09:54:40 ERROR Payment gateway returned 503
+2026-10-01 09:54:53 ERROR Database connection timeout after 30s
+2026-10-01 09:55:07 WARN Retrying request to inventory-service
+2026-10-01 09:55:32 INFO Payment processed
+2026-10-01 09:55:40 INFO Scheduled job finished
+2026-10-01 09:56:00 WARN Disk usage above 80%
+2026-10-01 09:56:10 INFO Scheduled job finished
+2026-10-01 09:56:30 ERROR Database connection timeout after 30s
+2026-10-01 09:56:50 ERROR Failed to connect to inventory-service
+2026-10-01 09:56:56 ERROR NullPointerException in OrderController
+2026-10-01 09:57:10 ERROR Database connection timeout after 30s
+2026-10-01 09:57:32 INFO Scheduled job started
+2026-10-01 09:57:53 ERROR Redis connection refused
+2026-10-01 09:58:07 INFO Order created
+2026-10-01 09:58:21 WARN Slow query detected (>2s)
+2026-10-01 09:58:45 INFO Request completed in 120ms
+2026-10-01 09:58:56 WARN Disk usage above 80%
+2026-10-01 09:59:03 ERROR Database connection timeout after 30s
+2026-10-01 09:59:10 ERROR Payment gateway returned 503
+2026-10-01 09:59:34 WARN Slow query detected (>2s)
+2026-10-01 09:59:46 ERROR Database connection timeout after 30s
+2026-10-01 10:00:05 WARN Retrying request to inventory-service
+2026-10-01 10:00:41 INFO Scheduled job started
+2026-10-01 10:01:28 WARN Retrying request to inventory-service
+2026-10-01 10:01:57 INFO Cache refreshed
+2026-10-01 10:02:21 WARN Disk usage above 80%
+2026-10-01 10:03:19 INFO Scheduled job finished
+2026-10-01 10:04:07 INFO Scheduled job finished
+2026-10-01 10:04:52 INFO Session closed
+2026-10-01 10:05:46 INFO Request completed in 120ms
+2026-10-01 10:06:44 WARN Deprecated API endpoint called
+2026-10-01 10:07:24 INFO User login successful
+2026-10-01 10:07:49 INFO User login successful
+2026-10-01 10:08:26 INFO Cache refreshed
+2026-10-01 10:09:16 INFO Payment processed
+2026-10-01 10:09:53 INFO Order created
+2026-10-01 10:10:53 INFO Request completed in 120ms
+2026-10-01 10:11:43 INFO Health check OK
+2026-10-01 10:12:23 INFO Cache refreshed
+2026-10-01 10:13:04 INFO Payment processed
+2026-10-01 10:13:42 INFO Order created
+2026-10-01 10:14:37 WARN Slow query detected (>2s)
+2026-10-01 10:15:17 INFO Request completed in 120ms
+    at com.shop.OrderController.create(OrderController.java:88)
+2026-10-01 10:16:02 INFO User login successful
+2026-10-01 10:16:56 INFO User login successful
+2026-10-01 10:17:28 INFO Payment processed
+2026-10-01 10:18:28 INFO User login successful
+2026-10-01 10:19:01 INFO Cache refreshed
+2026/10/01 10:05:00 INFO Wrong date separators
+2026-10-01 10:19:39 INFO Payment processed
+2026-10-01 10:20:06 ERROR Failed to connect to inventory-service
+2026-10-01 10:20:41 INFO Scheduled job finished
+2026-10-01 10:21:36 ERROR Payment gateway returned 503
+2026-10-01 10:22:10 INFO Request completed in 120ms
+2026-10-01 10:22:59 INFO Cache refreshed
+2026-10-01 10:23:50 INFO Scheduled job finished
+2026-10-01 10:24:42 INFO Order created
+2026-10-01 10:25:32 INFO Scheduled job started
+2026-10-01 10:26:21 INFO Order created
+2026-10-01 10:26:53 INFO Session closed
+2026-10-01 10:27:21 INFO Scheduled job finished
+2026-10-01 10:28:07 INFO Session closed
+2026-10-01 10:28:44 INFO Scheduled job finished
+2026-10-01 10:29:23 INFO Payment processed
+2026-10-01 10:29:52 INFO Payment processed
+2026-10-01 10:30:34 INFO Session closed
+2026-10-01 10:31:18 INFO Health check OK
+2026-10-01 10:31:50 INFO Scheduled job started
+2026-10-01 10:32:46 INFO Order created
+2026-10-01 10:33:08 INFO Payment processed
+2026-10-01 10:33:52 INFO Cache refreshed
+2026-10-01 10:34:43 INFO Cache refreshed
+2026-10-01 10:35:35 INFO Health check OK
+2026-10-01 10:36:01 INFO Payment processed
+2026-10-01 10:36:27 INFO Payment processed
+2026-10-01 10:36:47 INFO Order created
+2026-10-01 10:37:16 WARN Disk usage above 80%
+2026-10-01 10:37:57 INFO Order created
+2026-10-01 10:38:22 INFO Session closed
+2026-10-01 10:39:06 INFO Payment processed
+2026-10-01 10:40:00 WARN Slow query detected (>2s)
+2026-10-01 10:40:35 INFO Scheduled job finished
+2026-10-01 10:41:09 INFO Order created
+2026-10-01 10:41:35 INFO Request completed in 120ms
+2026-10-01 10:42:23 INFO Scheduled job finished
+2026-10-01 10:42:44 WARN Slow query detected (>2s)
+2026-10-01 10:43:22 INFO Order created
+2026-10-01 10:43:51 INFO Order created
+2026-10-01 10:44:47 INFO Cache refreshed
+2026-10-01 10:45:17 INFO Order created
+2026-10-01 10:46:16 INFO Payment processed
+2026-10-01 10:47:13 INFO Payment processed
+2026-10-01 10:48:13 INFO Scheduled job finished
+2026-10-01 10:48:33 INFO Payment processed
+2026-10-01 10:49:11 INFO Cache refreshed
+2026-10-01 10:49:35 INFO Health check OK
+2026-10-01 10:50:32 INFO Order created
+2026-10-01 10:51:08 INFO Scheduled job finished
+2026-10-01 10:51:40 INFO Payment processed
+2026-10-01 10:52:06 INFO Health check OK
+2026-10-01 10:53:02 INFO Scheduled job finished
+2026-10-01 10:53:23 INFO Order created
+2026-10-01 10:54:00 ERROR NullPointerException in OrderController
+2026-10-01 10:54:23 INFO Payment processed
+2026-10-01 10:55:01 INFO Scheduled job started
+2026-10-01 10:55:59 INFO Scheduled job started
+2026-10-01 10:56:59 INFO Scheduled job finished
+2026-10-01 10:57:27 INFO User login successful
+2026-10-01 10:58:06 INFO User login successful
+2026-10-01 10:59:03 INFO Cache refreshed
+2026-10-01 10:59:28 INFO Health check OK
