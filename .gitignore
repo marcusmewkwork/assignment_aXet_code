@@ -24,3 +24,6 @@ logscope-*.md
 Thumbs.db
 .graphify/
 .graphifyignore
+
+# graphify-axet
+.graphify/
