@@ -15,6 +15,7 @@ build/
 dist/
 *.egg-info/
 *.log
+logscope-*.md
 !sample.log
 !tests/fixtures/*.log
 .ipynb_checkpoints/

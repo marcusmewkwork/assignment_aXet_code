@@ -70,8 +70,7 @@ def test_summary_command_returns_one_for_missing_file(capsys):
     assert "Unable to read file: missing.log" in capsys.readouterr().err
 
 
-def test_summary_format_is_rejected_until_step_six():
-    with pytest.raises(SystemExit) as error:
-        main(["summary", "tests/fixtures/summary.log", "--format", "json"])
+def test_summary_json_output_is_valid(capsys):
+    assert main(["summary", "tests/fixtures/summary.log", "--format", "json"]) == 0
 
-    assert error.value.code == 2
+    assert '"malformed_lines": 1' in capsys.readouterr().out
