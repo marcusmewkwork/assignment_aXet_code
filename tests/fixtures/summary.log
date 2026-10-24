@@ -1,0 +1,12 @@
+2026-10-01 09:10:00 ERROR Zebra failure
+2026-10-01 09:00:00 INFO Startup complete
+2026-10-01 09:20:00 ERROR Alpha failure
+malformed
+2026-10-01 09:30:00 ERROR Zebra failure
+
+2026-10-01 08:00:00 WARN Earlier warning
+2026-10-01 10:00:00 ERROR Alpha failure
+2026-10-01 09:40:00 ERROR Bravo failure
+2026-10-01 09:50:00 ERROR Delta failure
+2026-10-01 09:55:00 ERROR Echo failure
+2026-10-01 09:58:00 ERROR Foxtrot failure
