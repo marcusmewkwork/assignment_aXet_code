@@ -1,0 +1,6 @@
+2026-10-01 09:14:59 ERROR Before boundary
+2026-10-01 09:15:00 ERROR At boundary
+2026-10-01 09:31:00 ERROR Later error
+not a log line
+2026-10-01 09:45:00 INFO No error
+2026-10-01 09:48:00 ERROR Final error
