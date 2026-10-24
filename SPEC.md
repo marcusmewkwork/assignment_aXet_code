@@ -6,8 +6,6 @@ After an incident, the operations team needs to summarise application logs from 
 
 ## 2. Log line format
 
-> ⚠️ Confirm against `sample.log` before building. Adjust this section if the real format differs.
-
 Assumed format, one entry per line:
 
 ```
@@ -16,7 +14,7 @@ YYYY-MM-DD HH:MM:SS LEVEL message text
 ```
 
 - **Timestamp:** `YYYY-MM-DD HH:MM:SS`, local time, no timezone.
-- **Level:** one of `INFO`, `WARN`, `ERROR`. Decision: `WARNING` is / is not treated as `WARN`.
+- **Level:** one of `INFO`, `WARN`, `ERROR`. Decision: `WARNING` is accepted and counted as `WARN`.
 - **Message:** everything after the level, with surrounding whitespace trimmed. It must not be empty.
 
 A line is **malformed** if any of the following is true:
@@ -24,7 +22,7 @@ A line is **malformed** if any of the following is true:
 - the level isn't recognised
 - the message is empty
 
-Blank lines are skipped and **not** counted as malformed. (Decision: confirm.)
+   Blank lines count towards "total lines read" but are not parsed and not counted as malformed.
 
 Multi-line entries such as stack traces are out of scope. Each continuation line counts as malformed.
 
@@ -81,6 +79,8 @@ logscope grep <file> [--level LEVEL] [--since "YYYY-MM-DD HH:MM"] [--format text
 | `md` | file | Writes `logscope-<command>-<YYYYMMDD-HHMMSS>.md` in the current folder (or the path given with `--output`) and prints that path |
 
 Every format reports the malformed-line count. In `grep` text mode, the count goes to **stderr** so stdout stays clean for piping.
+
+Markdown reports: a `#` heading with the command and file name, then tables for summary data; timeline bars and grep lines go inside a code block. An existing file is overwritten. `--output <path>` is only allowed with `--format md`; otherwise exit with code 2.
 
 ## 5. Non-functional requirements
 
