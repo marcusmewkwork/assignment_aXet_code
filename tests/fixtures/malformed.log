@@ -1,0 +1,6 @@
+not a log line
+2026-13-01 09:15:23 INFO Invalid timestamp
+2026-10-01 09:15:23 DEBUG Unknown level
+2026-10-01 09:15:23 ERROR    
+    at com.shop.OrderController.create(OrderController.java:88)
+
