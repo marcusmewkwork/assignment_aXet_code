@@ -1,4 +1,8 @@
 from datetime import datetime
+import os
+from pathlib import Path
+import subprocess
+import sys
 
 import pytest
 
@@ -63,6 +67,22 @@ def test_grep_command_prints_original_lines_and_malformed_count(capsys):
         "2026-10-01 09:31:00 ERROR Later error\n"
     )
     assert captured.err == "Malformed lines: 1\n"
+
+
+def test_grep_handles_invalid_utf8_with_cp1252_stdout(tmp_path):
+    fixture = tmp_path / "invalid-utf8.log"
+    fixture.write_bytes(b"2026-10-01 09:00:00 ERROR bad bytes \xff\xfe\n")
+    environment = {**os.environ, "PYTHONIOENCODING": "cp1252"}
+
+    result = subprocess.run(
+        [sys.executable, "-m", "logscope", "grep", str(fixture)],
+        capture_output=True,
+        cwd=Path(__file__).parents[1],
+        env=environment,
+    )
+
+    assert result.returncode == 0
+    assert b"Traceback" not in result.stderr
 
 
 def test_grep_command_handles_empty_and_all_malformed_files(tmp_path, capsys):

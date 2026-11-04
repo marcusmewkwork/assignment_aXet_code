@@ -67,6 +67,8 @@ def write_markdown_path(path: Path) -> None:
 
 
 def main(argv: Sequence[str] | None = None) -> int:
+    sys.stdout.reconfigure(errors="replace")
+    sys.stderr.reconfigure(errors="replace")
     parser = build_parser()
     arguments = parser.parse_args(argv)
     if arguments.command is None:
